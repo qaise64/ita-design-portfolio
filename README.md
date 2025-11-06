@@ -38,4 +38,4 @@ Das Ziel war die Erstellung eines persoenlichen Logos, das ein technisches Thema
 
 Dies ist ein Cover-Artwork, das fuer einen fiktiven "Crypto Talks" Podcast entworfen wurde.
 
-![Grafik eines Podcast-Covers fuer Crypto Talks](Zeichenfläche.jpg)
+![Grafik eines Podcast-Covers fuer Crypto Talks](Zeichenflaeche.png)
