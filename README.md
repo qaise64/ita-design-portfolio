@@ -1,6 +1,6 @@
 # UI/UX- & Grafik-Designs (ITA-Ausbildung)
 
-Hallo! Dieses Repository enthaelt verschiedene Design-Arbeiten, die ich waehrend meiner Ausbildung zum Informationstechnischen Assistenten (ITA) erstellt habe.
+Dieses Repository enthaelt verschiedene Design-Arbeiten, die ich waehrend meiner Ausbildung zum Informationstechnischen Assistenten (ITA) erstellt habe.
 
 ---
 
